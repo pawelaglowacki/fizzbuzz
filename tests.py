@@ -1,7 +1,7 @@
 import unittest
 import fb 
 
-class TestKarateChop(unittest.TestCase):
+class TestFizzBuzz(unittest.TestCase):
 
 
 	def test_Fizz(self):
